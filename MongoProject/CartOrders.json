@@ -1,0 +1,19 @@
+[
+    {
+        "Order_id": "ObjectId",
+        "Customer_id": "ObjectId",
+        "ProductsInCart": [
+            {
+                "Product_id": "ObjectId",
+                "Product_quantity":"number"
+            }
+        ],
+        "Total_cost": "number",
+        "Status": "string",
+        "Tracking_id": "number",
+        "Order_date": "date",
+        "Predicted_Delivery_date": "date",
+        "Current_AddressOfProduct": "address",
+        "Delivery_address": "address"
+    }
+]

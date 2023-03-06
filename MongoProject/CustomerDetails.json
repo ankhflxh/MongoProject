@@ -1,0 +1,9 @@
+[
+    {
+        "Customer_id": "ObjectId",
+        "Customer_name": "string",
+        "Customer_email":"string",
+        "Customer_Phonenumber":"number",
+        "Customer_password":"string"
+    }
+]

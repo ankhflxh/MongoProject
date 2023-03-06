@@ -1,0 +1,22 @@
+# Shopping App Schema Design
+
+## User Story
+
+As a shopper, I want to be able to browse a catalog of products and add items tomy shopping cart. I also want to be able to view the contents of my cart and adjust the quantity of items in my cart. Finally, I want to be able to place an order and receive confirmation of my order.
+
+## What will this require?
+
+## Rundown of Requirements:
+-  Product catalog: A product catalog of differnt products with names, description, price, and their categories.
+
+-  Customer Details: Each customer will have a unique identifier, name, email, p
+honenumber, password.
+
+-  Orders(Cart): An order will have a unique identifier, the name of customer who placed it, quantity of items and total amount of money when adding and removing item from the cart. You will be a able to order and receive confirmation of order after successful purchase.
+## Relationships:
+
+- A customer can browse catalog of products and ordered items in shopping cart.
+
+- A cart contains various items ordered, the contents and quantity of orders.
+
+- The cart will have a "order" button that will enable you to order and receive confirmation of order.

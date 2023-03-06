@@ -1,0 +1,10 @@
+[
+    {
+        "Product_id": "ObjectId",
+        "Product_name": "string",
+        "Product_description": "string",
+        "Product_price": "number",
+        "Product_categories": "[string]"
+
+    }
+]
